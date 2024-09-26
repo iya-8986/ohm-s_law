@@ -1,4 +1,4 @@
-#author__thea_uy
+#author__uy_thea
 #date_Septermber_25_2024
 
 #this program will calculate the missing component from the ohm's law
